@@ -1,7 +1,12 @@
 # Building Robust Ensembles via Margin Boosting
 
 Implementation of our ICML 2022 paper [Building Robust Ensembles via Margin Boosting](), 
-by Dinghuai Zhang, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, and Arun Sai Suggala.
+by [Dinghuai Zhang](https://zdhnarsil.github.io/), 
+[Hongyang Zhang](https://hongyanz.github.io/), 
+Aaron Courville, 
+[Yoshua Bengio](https://yoshuabengio.org/),
+[Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), 
+and [Arun Sai Suggala](http://www.cs.cmu.edu/~asuggala/).
 
 We propose a margin-boosting framework for learning
 max-margin ensembles. 
